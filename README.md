@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Project Summery
+
+1.This healthcare website name is vip care hospital.Home page have a header (simple navbar), banner, services, and footer signin ,register & google signin option.
+
+2.contact is the private router.if you log in then show user name and logOut option in header.
+
+3.Design this UI usign Tailwind css framwork
+
