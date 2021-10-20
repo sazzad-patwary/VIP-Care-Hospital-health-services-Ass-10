@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "616d46b2467706fdba33d20e",
+        "picture": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+        "name": "Dr. A.B.M Sarwar-E-Alam",
+        "about": "Hepatologist & Gastroenterologist"
+    },
+    {
+        "_id": "616d46b2c011b4baa874b4fe",
+        "picture": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+        "name": " Professor Dr. Anaware Begum",
+        "about": "Medicine Specialist"
+    },
+    {
+        "_id": "616d46b2f7256d27778dee98",
+        "picture": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+        "name": " Dr. Hiramoni Sarma",
+        "about": "Diabetes, Thyroid & Hormone Specialist"
+    },
+    {
+        "_id": "616efa3ed55e6484990d24b3",
+        "picture": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+        "name": "Prof. Dr. Pran Gopal Datta",
+        "about": "Ear, Nose & Throat Specialist & Head Neck Surgeon"
+    },
+    {
+        "_id": "616efa3ed7e7afaa9ec4fd17",
+        "picture": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+        "name": "Prof. Dr. M.N. Huda",
+        "about": "Expert Dermatologist, Sexologist & Venereologist"
+    },
+    {
+        "_id": "616efa3e61ac9adf6dc05569",
+        "picture": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+        "name": "Dr. Shamim Boksha",
+        "about": "Gastroenterology, Medicine & Liver Diseases Specialist"
+    }
+]
